@@ -66,6 +66,7 @@ bash
 streamlit run country_profile_dashboard.py
 
 
+```
 **PROJECT STRUCTURE**
 
 📁 Analyzing-and-Visualizing-the-Global-Happiness-Index-with-Python
@@ -82,7 +83,6 @@ streamlit run country_profile_dashboard.py
 
 👤 Efe Esref Derincay
 📚 MSc Data Science — University of Europe for Applied Sciences
-
 
 
 
