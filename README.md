@@ -68,7 +68,7 @@ streamlit run country_profile_dashboard.py
 
 ```
 **PROJECT STRUCTURE**
-
+```
 📁 Analyzing-and-Visualizing-the-Global-Happiness-Index-with-Python
 │
 ├── dashboard.py                     # Global-level interactive dashboard
@@ -77,7 +77,7 @@ streamlit run country_profile_dashboard.py
 ├── EFE ESREF DERINCAY DSC A WORLD HAPPINESS PROJECT.ipynb  # Main notebook
 ├── README.md                        # Project documentation
 └── df2025_interactive.csv           # Cleaned dataset 
-
+```
 
 📑 Author
 
