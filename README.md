@@ -57,5 +57,32 @@ Explore each country's data:
 ```bash
 pip install pandas numpy plotly streamlit scikit-learn pycountry-convert
 
+**2️⃣ Run the Global Dashboard**
+bash
+streamlit run dashboard.py
+
+**3️⃣ Run the Country Profile Dashboard**
+bash
+streamlit run country_profile_dashboard.py
+
+
+**PROJECT STRUCTURE**
+
+📁 Analyzing-and-Visualizing-the-Global-Happiness-Index-with-Python
+│
+├── dashboard.py                     # Global-level interactive dashboard
+├── country_profile_dashboard.py     # Country-level interactive dashboard
+├── tempCodeRunnerFile.py            # Test file for dashboard debugging
+├── EFE ESREF DERINCAY DSC A WORLD HAPPINESS PROJECT.ipynb  # Main notebook
+├── README.md                        # Project documentation
+└── df2025_interactive.csv           # Cleaned dataset 
+
+
+📑 Author
+
+👤 Efe Esref Derincay
+📚 MSc Data Science — University of Europe for Applied Sciences
+
+
 
 
